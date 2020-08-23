@@ -25,7 +25,7 @@ SECRET_KEY = 'l_1k703uv##=hwi$0c=9(x-ax3wvn)be0cw_%o69x6_d5070(u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chwit-online.herokuapp.com']
 
 
 # Application definition
